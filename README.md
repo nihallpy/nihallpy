@@ -1,21 +1,30 @@
-# Hi there, I'm Nihal!
+# Hey there, I'm Nihal!
 
-I'm an **intermediate-level programmer** who's still learning and growing.  
-I mainly work with **Python** and **Java**, and I'm always experimenting with new ideas.
+I'm an **intermediate-level programmer** still learning and exploring.  
+I mostly work with **Python**, **Java**, and a bit of **JavaScript**.
 
-## What to expect:
-- Basic to moderately complex scripts and programs  
-- Clean code (mostly)  
-- A few bugs here and there (I'm learning, okay?)
+## ⚒️ Languages and Tools:
 
-## What *not* to expect:
-- Perfect, production-ready code  
-- Super advanced algorithms (yet!)  
-- Daily updates (life happens)
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
 
-## About me:
-- I code for fun and learning
-- I prefer practical projects over theory
-- I believe in improving one step at a time
+- **Tools:**  
+  ![Pydroid 3](https://img.shields.io/badge/-Pydroid3-green?logo=android&logoColor=white)  
+  ![Termux](https://img.shields.io/badge/-Termux-black?logo=gnu-bash&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-Thanks for stopping by — feel free to explore, suggest improvements, or just say hi!
+## What to Expect:
+- Basic to mid-level code in Python and Java  
+- Small projects, scripts, and experiments  
+- Casual contributions and real learning in progress
+
+## What Not to Expect:
+- Super advanced or enterprise-level code  
+- Perfect solutions  
+- Daily commits (I do have a life!)
+
+---
+
+Thanks for stopping by! Feel free to check out my projects or drop a star if something helps you.
