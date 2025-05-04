@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Nihal!
 
-<!--
-**nihallpy/nihallpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **intermediate-level programmer** who's still learning and growing.  
+I mainly work with **Python** and **Java**, and I'm always experimenting with new ideas.
 
-Here are some ideas to get you started:
+## What to expect:
+- Basic to moderately complex scripts and programs  
+- Clean code (mostly)  
+- A few bugs here and there (I'm learning, okay?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What *not* to expect:
+- Perfect, production-ready code  
+- Super advanced algorithms (yet!)  
+- Daily updates (life happens)
+
+## About me:
+- I code for fun and learning
+- I prefer practical projects over theory
+- I believe in improving one step at a time
+
+Thanks for stopping by — feel free to explore, suggest improvements, or just say hi!
