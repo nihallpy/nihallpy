@@ -1,4 +1,4 @@
-# Hey there, I'm Nihal!
+# im nihal
 
 I'm an **intermediate-level programmer** still learning and exploring.  
 I mostly work with **Python**, **Java**, and a bit of **JavaScript**.
@@ -16,15 +16,15 @@ I mostly work with **Python**, **Java**, and a bit of **JavaScript**.
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ## What to Expect:
-- Basic to mid-level code in Python and Java  
+- Basic to midlevel code in Python and Java  
 - Small projects, scripts, and experiments  
 - Casual contributions and real learning in progress
 
 ## What Not to Expect:
 - Super advanced or enterprise-level code  
 - Perfect solutions  
-- Daily commits (I do have a life!)
+- Daily commits (I have a life)
 
 ---
 
-Thanks for stopping by! Feel free to check out my projects or drop a star if something helps you.
+Thanks for stopping by Feel free to check out my projects or drop a star if something helps you.
